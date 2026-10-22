@@ -1,2 +1,13 @@
 #custom
 .DS_Store
+
+# secretos
+.env
+*.key
+*.pem
+
+# build de Jekyll
+_site/
+.jekyll-cache/
+.sass-cache/
+vendor/
